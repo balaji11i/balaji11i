@@ -1,6 +1,6 @@
 hi  i'm Balaji
 
-
+I'm a Student,Developer,Tech Enthusiast,Entrepreneur...  
 
 Here are some ideas to get you started:
 
